@@ -4,6 +4,7 @@
     "password": "Arya@1006",
     "database": "evaluation",
     "host": "127.0.0.1",
+    
     "dialect": "mysql",
     "operatorsAliases": false
   },
